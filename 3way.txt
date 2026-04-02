@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 3way task task2
+=======
+3way task
+
+add
+>>>>>>> 3way
